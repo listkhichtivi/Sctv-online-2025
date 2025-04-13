@@ -1,4 +1,4 @@
 #EXTINF: -1 tvg-id = "sctv1" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.webp",Bình Dương 2 HD
 #EXTVLCOPT: http-user-agent = khichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1744555419/qd3lE2P9k6af2AtgXx6d2xgoA7k/e11.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/mkZXw9xonMoVbsCqKMTYoQ/1744650000/anonymous/live/sctv1/text/playlist.m3u8|Referer=http://sctvonline.vn/
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1744555419/qd3lE2P9k6af2AtgXx6d2xgoA7k/e11.endpoint.cdn.sctvonline.vn/nginx.s5.https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/mkZXw9xonMoVbsCqKMTYoQ/1744650000/anonymous/live/sctv1/master.m3u8|Referer=http://sctvonline.vn/
