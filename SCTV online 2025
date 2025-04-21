@@ -67,7 +67,8 @@ https://sctv.locket.website/sctv.m3u8?channel=sctv21
 #EXTINF: -1 tvg-id = "sctv22" group-title = "🇻🇳Khích TiVi|SCTV online" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.webp", SCTV 22 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://sctv.locket.website/sctv.m3u8?channel=sctv22
-#EXTINF: -1 tvg-id = "sctvphimtonghop" group-title = "🇻🇳Khích TiVi|SCTV online" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.webp", SCTV 23 HD🔓
-
+#EXTINF: -1 tvg-id = "sctvphim" group-title = "🇻🇳Khích TiVi|SCTV online" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.webp", SCTV 23 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://sctv.locket.website/sctv.m3u8?channel=sctvphim
 
 
