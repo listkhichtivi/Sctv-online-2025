@@ -1,8 +1,4 @@
 #EXTINF: -1 tvg-id = "sctv1" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.webp",Bình Dương 2 HD
-#EXTVLCOPT: http-user-agent = khichTivi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
- https://sctv.locket.website/sctv1
-http://108.181.20.197/livehttpplay?channel_id=20314
-http://ali.hlspull.yximgs.com/live/huanqiuhktvmqqlqpwqjctjfhjvqjqjuqlvcbeyweqweefshqfhhqsqqcxhbo.flv
-http://108.181.20.197/livehttpplay?channel_id=20313
-http://108.181.20.197/livehttpplay?channel_id=20312
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://sctv.locket.website/sctv.m3u8?channel=sctv1
+#https://sctv.locket.website/sctv1
