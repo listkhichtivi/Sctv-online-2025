@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTINF=,'*'=√ úp Đep 21/4/2025
 #EXTINF: -1 tvg-id = "sctv1hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/VYwbLBRt/sctv-online-logo-vbk.jpg", SCTV 1 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
