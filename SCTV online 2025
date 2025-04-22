@@ -49,7 +49,7 @@ https://canvato.net/DNIBd?=get=&sctv15
 #EXTINF:-1 tvg-id="sctv16hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/HDQp8GRL/sctv-online-logo-sctv16-vbk.jpg", SCTV 16 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://canvato.net/2c1lg?=get=&sctv16
-#EXTINF:-1 tvg-id="sctv17hd" group-title=""🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/kgxNMkY7/sctv-online-logo-sctv17.jpg", SCTV 17 HD🔓
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/kgxNMkY7/sctv-online-logo-sctv17.jpg", SCTV 17 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://canvato.net/tewLe?=get=&sctv17
 #EXTINF:-1 tvg-id="sctv18hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/7JKq6fKf/sctv-online-logo-sctv18.jpg", SCTV 18 HD🔓
