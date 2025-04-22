@@ -2,26 +2,26 @@
 #EXTINF=,'*'=√ úp Đep 21/4/2025
 #EXTINF: -1 tvg-id = "sctv1hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/VYwbLBRt/sctv-online-logo-vbk.jpg", SCTV 1 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv1
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv1
 #https://sctv.locket.website/sctv1
 #EXTINF: -1 tvg-id = "sctv2hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/LzVVGqrH/sctv2-sctv-online-logo-vbk.jpg", SCTV 2 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv2
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv2
 #EXTINF: -1 tvg-id = "sctv3hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/N60CHV3r/sctv-online-logo-sctv3.jpg", SCTV 3 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv3
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv3
 #EXTINF: -1 tvg-id = "sctv4hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/Ngk8MPmC/sctv-online-logo-sctv4.jpg", SCTV 4 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv4
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv4
 #EXTINF: -1 tvg-id = "sctv5hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/N27HZs9y/sctv-online-logo-sctv5.jpg", SCTV 5 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv5
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv5
 #EXTINF: -1 tvg-id = "sctv6hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/mCftXXpL/sctv-online-logo-sctv6.jpg", SCTV 6 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv6
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv6
 #EXTINF: -1 tvg-id = "sctv7hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/SXjfwvRX/sctv-online-logo-sctv7.jpg", SCTV 7 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv7
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv7
 #EXTINF: -1 tvg-id = "sctv8hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/ZRkfZ8kS/sctv-online-logo-sctv8.jpg", SCTV 8 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://sctv.locket.website/sctv.m3u8?channel=sctv8
