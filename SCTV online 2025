@@ -72,5 +72,8 @@ https://canvato.net/wYylN?=get=&sctv22
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo="https://i.ibb.co/TBCm1Mf6/Screenshot-2025-0422-075847.jpg", SCTV 23 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://canvato.net/OlAJn?=&get=sctvpth
-
+#EXTINF:-1 tvg-id="Cinemax" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ 
+https://sctv.locket.website/kplus.m3u8?channel=warnertv 
 
