@@ -40,7 +40,7 @@ https://sctv.locket.website/sctv.m3u8?channel=sctv12
 #EXTINF: -1 tvg-id = "sctv13hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.webp", SCTV 13 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://sctv.locket.website/sctv.m3u8?channel=sctv13
-#EXTINF: -1 tvg-id = "sctv14hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.webp", SCTV 14 HD🔓
+#EXTINF: -1 tvg-id = "sctv14hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/6JfBzVRB/sctv-online-logo-sctv14.jpg", SCTV 14 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://sctv.locket.website/sctv.m3u8?channel=sctv14
 #EXTINF: -1 tvg-id = "sctv15hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/p6Tg7wvp/sctv-online-logo-sctv15.jpg", SCTV 15 HD🔓
