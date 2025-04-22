@@ -45,19 +45,19 @@ https://sctv.locket.website/sctv.m3u8?channel=sctv13
 https://sctv.locket.website/sctv.m3u8?channel=sctv14
 #EXTINF: -1 tvg-id = "sctv15hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/p6Tg7wvp/sctv-online-logo-sctv15.jpg", SCTV 15 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=vtv6
+https://canvato.net/DNIBd?=get=&sctv15
 #EXTINF: -1 tvg-id = "sctv16hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/HDQp8GRL/sctv-online-logo-sctv16-vbk.jpg", SCTV 16 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv16
+https://canvato.net/2c1lg?=get=&sctv16
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/kgxNMkY7/sctv-online-logo-sctv17.jpg", SCTV 17 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=vtv5
+https://canvato.net/tewLe?=get=&sctv17
 #EXTINF: -1 tvg-id = "sctv18hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/7JKq6fKf/sctv-online-logo-sctv18.jpg", SCTV 18 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv18
+https://canvato.net/oc7Hy?get=&sctv18
 #EXTINF: -1 tvg-id = "sctv19hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/Rk4V4bFx/sctv-online-logo-sctv19.jpg", SCTV 19 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv19
+https://canvato.net/NR3h5?=get=&sctv19
 #EXTINF: -1 tvg-id = "sctv20hd" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/7tNwHngD/sctv-online-logo-sctv20.jpg", SCTV 20 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://canvato.net/aXEvA?=get=&sctv20
@@ -69,6 +69,6 @@ https://canvato.net/KUTup?=get=&sctv21
 https://canvato.net/wYylN?=get=&sctv22
 #EXTINF: -1 tvg-id = "sctvhdpth" group-title = "🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/TBCm1Mf6/Screenshot-2025-0422-075847.jpg", SCTV 23 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://canvato.net/OlAJn?.m3u8=&get=sctvpth
+https://canvato.net/OlAJn?=&get=sctvpth
 
 
