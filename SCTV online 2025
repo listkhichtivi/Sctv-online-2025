@@ -21,9 +21,10 @@ https://sctv.locket.website/sctvonline.m3u8?channel=sctv5
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv6
 #EXTINF:-1 tvg-id="sctv7hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/SXjfwvRX/sctv-online-logo-sctv7.jpg", SCTV 7 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv7#EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/ZRkfZ8kS/sctv-online-logo-sctv8.jpg", SCTV 8 HD🔓
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv7
+#EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/ZRkfZ8kS/sctv-online-logo-sctv8.jpg", SCTV 8 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctv.m3u8?channel=sctv8
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/TMzxnJ4h/sctv-online-logo-sctv9.jpg", SCTV 9 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://canvato.net/mMaCO?=get=&sctv9
