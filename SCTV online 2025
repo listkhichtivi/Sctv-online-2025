@@ -85,7 +85,8 @@ https://sctv.locket.website/kplus.m3u8?channel=ksport2
 https://sctv.locket.website/kplus.m3u8?channel=kcine
 #EXTINF:-1 tvg-id="K+ ACTION" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/02/04/bf9ogokv_banner_296_168.webp",K+ ACTION 🔓
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=kaction #EXTINF:-1 tvg-id="K+ KIDS" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/04/hos99ds1_bannercc6df4f3cfe37bbf07469f814a119c6a_296_168.webp",K+ KIDS 🔓
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ 
+https://sctv.locket.website/kplus.m3u8?channel=kaction
 #EXTINF:-1 tvg-id="K+ KIDS" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/04/hos99ds1_bannercc6df4f3cfe37bbf07469f814a119c6a_296_168.webp",K+ KIDS 🔓
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/ 
