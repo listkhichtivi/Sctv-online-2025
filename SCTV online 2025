@@ -80,10 +80,13 @@ https://sctv.locket.website/kplus.m3u8?channel=ksport1
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://sctv.locket.website/kplus.m3u8?channel=ksport2
-#EXTINF:-1 tvg-id="K+ CINE" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg?w=300",K+ CINE 🔓
+#EXTINF:-1 tvg-id="K+ CINE" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/03/13/waeogaap_thumb13-03-20253873d09815716e97c460f64455f8d4a3_296_168.webp",K+ CINE 🔓
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://sctv.locket.website/kplus.m3u8?channel=kcine
-#EXTINF:-1 tvg-id="K+ ACTION" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg?w=300",K+ ACTION 🔓
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=kaction #EXTINF:-1 tvg-id="K+ KIDS" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg?w=300",K+ KIDS 🔓
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ 
+#EXTINF:-1 tvg-id="K+ ACTION" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/02/04/bf9ogokv_banner_296_168.webp",K+ ACTION 🔓
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=kaction #EXTINF:-1 tvg-id="K+ KIDS" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/04/hos99ds1_bannercc6df4f3cfe37bbf07469f814a119c6a_296_168.webp",K+ KIDS 🔓
+#EXTINF:-1 tvg-id="K+ KIDS" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/04/hos99ds1_bannercc6df4f3cfe37bbf07469f814a119c6a_296_168.webp",K+ KIDS 🔓
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ 
 https://sctv.locket.website/kplus.m3u8?channel=kkids
