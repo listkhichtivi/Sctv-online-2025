@@ -37,13 +37,13 @@ https://canvato.net/NqscK?=get=&sctv11
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://canvato.net/sf2Qi?=get=&sctv12
 #EXTINF:-1 tvg-id="sctv13hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/rK2GSXkd/sctv-online-logo-sctv13.jpg", SCTV 13 HD🔓
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv13
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+https://canvato.net/OUUKw?channel=get=&sctv13
 #https://canvato.net/Vc7DO?=get=&sctv13
 ##EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/6JfBzVRB/sctv-online-logo-sctv14.jpg", SCTV 14 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #https://sctv.locket.website/khichtvonline.m3u8?channel=sctv14
-https://canvato.net/DavsG?=get=&sctv14
+https://canvato.net/j6zGI?=get=&sctv14
 #EXTINF:-1 tvg-id="sctv15hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/p6Tg7wvp/sctv-online-logo-sctv15.jpg", SCTV 15 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://canvato.net/DNIBd?=get=&sctv15
