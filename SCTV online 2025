@@ -14,7 +14,7 @@ https://canvato.net/mOT05?get=&sctv3_hd
 https://canvato.net/4YNAS?channel=sctv4-hd
 #EXTINF:-1 tvg-id="sctv5hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/N27HZs9y/sctv-online-logo-sctv5.jpg", SCTV 5 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/khichtvonline.m3u8?channel=sctv5
+https://canvato.net/ZbTBp?=get=channel=sctv5-hd
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/mCftXXpL/sctv-online-logo-sctv6.jpg", SCTV 6 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://canvato.net/Z6vCZ?channel=sctv6-hd
@@ -42,8 +42,8 @@ https://sctv.locket.website/sctvonline.m3u8?channel=sctv13
 #https://canvato.net/Vc7DO?=get=&sctv13
 ##EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/6JfBzVRB/sctv-online-logo-sctv14.jpg", SCTV 14 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv14
-#https://canvato.net/DavsG?=get=&sctv14
+#https://sctv.locket.website/khichtvonline.m3u8?channel=sctv14
+https://canvato.net/DavsG?=get=&sctv14
 #EXTINF:-1 tvg-id="sctv15hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/p6Tg7wvp/sctv-online-logo-sctv15.jpg", SCTV 15 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://canvato.net/DNIBd?=get=&sctv15
